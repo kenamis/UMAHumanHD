@@ -15,7 +15,7 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: f68244971d2c83c41bae94a65b7443d5, type: 2}
   materialType: 1
   channels:
-  - channelType: 0
+  - channelType: 4
     textureFormat: 0
     materialPropertyName: _BaseColorMap
     sourceTextureName: 
